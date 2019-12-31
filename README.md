@@ -1,2 +1,1 @@
-# assessment
-あなたのいいところ診断ゲーム
+簡単なhtml/css/jsの練習
